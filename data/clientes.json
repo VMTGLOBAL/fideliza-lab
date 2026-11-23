@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ana Torres",
+    "email": "ana.torres@correo-ejemplo.com",
+    "fechaNacimiento": "1973-10-02",
+    "fechaAlta": "2025-06-12"
+  },
+  {
+    "id": 2,
+    "nombre": "Bruno Salazar",
+    "email": "bruno.salazar@correo-ejemplo.com",
+    "fechaNacimiento": "1984-02-24",
+    "fechaAlta": "2025-03-10"
+  },
+  {
+    "id": 3,
+    "nombre": "Carla Mendoza",
+    "email": "carla.mendoza@correo-ejemplo.com",
+    "fechaNacimiento": "1991-11-18",
+    "fechaAlta": "2025-02-24"
+  },
+  {
+    "id": 4,
+    "nombre": "Diego Vera",
+    "email": "diego.vera@correo-ejemplo.com",
+    "fechaNacimiento": "1987-12-05",
+    "fechaAlta": "2025-07-09"
+  },
+  {
+    "id": 5,
+    "nombre": "Elena Paredes",
+    "email": "elena.paredes@correo-ejemplo.com",
+    "fechaNacimiento": "1969-10-17",
+    "fechaAlta": "2025-10-20"
+  },
+  {
+    "id": 6,
+    "nombre": "Fabián Ruiz",
+    "email": "fabian.ruiz@correo-ejemplo.com",
+    "fechaNacimiento": "1966-02-07",
+    "fechaAlta": "2025-07-26"
+  },
+  {
+    "id": 7,
+    "nombre": "Gabriela León",
+    "email": "gabriela.leon@correo-ejemplo.com",
+    "fechaNacimiento": "1985-04-06",
+    "fechaAlta": "2025-02-28"
+  },
+  {
+    "id": 8,
+    "nombre": "Hugo Castillo",
+    "email": "hugo.castillo@correo-ejemplo.com",
+    "fechaNacimiento": "1978-04-12",
+    "fechaAlta": "2025-02-09"
+  },
+  {
+    "id": 9,
+    "nombre": "Isabel Ortega",
+    "email": "isabel.ortega@correo-ejemplo.com",
+    "fechaNacimiento": "2002-12-28",
+    "fechaAlta": "2025-05-09"
+  },
+  {
+    "id": 10,
+    "nombre": "Jorge Andrade",
+    "email": "jorge.andrade@correo-ejemplo.com",
+    "fechaNacimiento": "2001-03-03",
+    "fechaAlta": "2025-10-22"
+  },
+  {
+    "id": 11,
+    "nombre": "Karla Zambrano",
+    "email": "karla.zambrano@correo-ejemplo.com",
+    "fechaNacimiento": "1982-08-18",
+    "fechaAlta": "2025-06-27"
+  },
+  {
+    "id": 12,
+    "nombre": "Luis Cedeño",
+    "email": "luis.cedeño@correo-ejemplo.com",
+    "fechaNacimiento": "1973-05-02",
+    "fechaAlta": "2025-06-02"
+  },
+  {
+    "id": 13,
+    "nombre": "María Jaramillo",
+    "email": "maria.jaramillo@correo-ejemplo.com",
+    "fechaNacimiento": "2000-08-18",
+    "fechaAlta": "2025-04-14"
+  },
+  {
+    "id": 14,
+    "nombre": "Nicolás Bravo",
+    "email": "nicolas.bravo@correo-ejemplo.com",
+    "fechaNacimiento": "1976-09-05",
+    "fechaAlta": "2025-02-27"
+  },
+  {
+    "id": 15,
+    "nombre": "Olga Pazmiño",
+    "email": "olga.pazmiño@correo-ejemplo.com",
+    "fechaNacimiento": "1991-04-03",
+    "fechaAlta": "2025-01-23"
+  },
+  {
+    "id": 16,
+    "nombre": "Pablo Cevallos",
+    "email": "pablo.cevallos@correo-ejemplo.com",
+    "fechaNacimiento": "1969-12-25",
+    "fechaAlta": "2025-07-16"
+  },
+  {
+    "id": 17,
+    "nombre": "Rosa Villacís",
+    "email": "rosa.villacis@correo-ejemplo.com",
+    "fechaNacimiento": "1974-05-07",
+    "fechaAlta": "2025-10-15"
+  },
+  {
+    "id": 18,
+    "nombre": "Sergio Mora",
+    "email": "sergio.mora@correo-ejemplo.com",
+    "fechaNacimiento": "1986-11-07",
+    "fechaAlta": "2025-02-17"
+  },
+  {
+    "id": 19,
+    "nombre": "Tania Guerrero",
+    "email": "tania.guerrero@correo-ejemplo.com",
+    "fechaNacimiento": "1983-04-06",
+    "fechaAlta": "2025-01-27"
+  },
+  {
+    "id": 20,
+    "nombre": "Ulises Benítez",
+    "email": "ulises.benitez@correo-ejemplo.com",
+    "fechaNacimiento": "1980-03-12",
+    "fechaAlta": "2025-04-12"
+  },
+  {
+    "id": 21,
+    "nombre": "Valeria Ponce",
+    "email": "valeria.ponce@correo-ejemplo.com",
+    "fechaNacimiento": "1966-07-09",
+    "fechaAlta": "2025-01-23"
+  },
+  {
+    "id": 22,
+    "nombre": "Walter Chiriboga",
+    "email": "walter.chiriboga@correo-ejemplo.com",
+    "fechaNacimiento": "1982-04-16",
+    "fechaAlta": "2025-07-21"
+  },
+  {
+    "id": 23,
+    "nombre": "Ximena Alvarado",
+    "email": "ximena.alvarado@correo-ejemplo.com",
+    "fechaNacimiento": "1993-07-22",
+    "fechaAlta": "2025-08-16"
+  },
+  {
+    "id": 24,
+    "nombre": "Yolanda Rivas",
+    "email": "yolanda.rivas@correo-ejemplo.com",
+    "fechaNacimiento": "1988-08-13",
+    "fechaAlta": "2025-02-16"
+  },
+  {
+    "id": 25,
+    "nombre": "Andrés Montalvo",
+    "email": "andres.montalvo@correo-ejemplo.com",
+    "fechaNacimiento": "2000-05-22",
+    "fechaAlta": "2025-07-26"
+  },
+  {
+    "id": 26,
+    "nombre": "Beatriz Cárdenas",
+    "email": "beatriz.cardenas@correo-ejemplo.com",
+    "fechaNacimiento": "1991-09-13",
+    "fechaAlta": "2025-06-14"
+  },
+  {
+    "id": 27,
+    "nombre": "César Navarrete",
+    "email": "cesar.navarrete@correo-ejemplo.com",
+    "fechaNacimiento": "2001-01-15",
+    "fechaAlta": "2025-10-11"
+  },
+  {
+    "id": 28,
+    "nombre": "Daniela Espinoza",
+    "email": "daniela.espinoza@correo-ejemplo.com",
+    "fechaNacimiento": "1983-08-18",
+    "fechaAlta": "2025-09-11"
+  },
+  {
+    "id": 29,
+    "nombre": "Esteban Loor",
+    "email": "esteban.loor@correo-ejemplo.com",
+    "fechaNacimiento": "1970-08-27",
+    "fechaAlta": "2025-06-17"
+  },
+  {
+    "id": 30,
+    "nombre": "Fernanda Quiroz",
+    "email": "fernanda.quiroz@correo-ejemplo.com",
+    "fechaNacimiento": "1974-06-25",
+    "fechaAlta": "2025-04-15"
+  }
+]

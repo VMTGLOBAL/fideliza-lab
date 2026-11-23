@@ -1,0 +1,50 @@
+[
+  {
+    "codigo": "CAF-01",
+    "nombre": "Café de cortesía",
+    "puntos": 150,
+    "categoria": "Alimentos"
+  },
+  {
+    "codigo": "ENV-01",
+    "nombre": "Envío gratis",
+    "puntos": 300,
+    "categoria": "Servicios"
+  },
+  {
+    "codigo": "DES-10",
+    "nombre": "Cupón 10 % de descuento",
+    "puntos": 600,
+    "categoria": "Cupones"
+  },
+  {
+    "codigo": "BOL-01",
+    "nombre": "Bolso de tela",
+    "puntos": 900,
+    "categoria": "Productos"
+  },
+  {
+    "codigo": "DES-20",
+    "nombre": "Cupón 20 % de descuento",
+    "puntos": 1500,
+    "categoria": "Cupones"
+  },
+  {
+    "codigo": "AUD-01",
+    "nombre": "Audífonos inalámbricos",
+    "puntos": 3500,
+    "categoria": "Productos"
+  },
+  {
+    "codigo": "CIN-02",
+    "nombre": "Dos entradas de cine",
+    "puntos": 1200,
+    "categoria": "Experiencias"
+  },
+  {
+    "codigo": "SPA-01",
+    "nombre": "Día de spa",
+    "puntos": 6000,
+    "categoria": "Experiencias"
+  }
+]

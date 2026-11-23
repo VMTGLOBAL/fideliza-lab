@@ -1,0 +1,14 @@
+# .NET
+bin/
+obj/
+.vs/
+*.user
+TestResults/
+
+# Expo / React Native
+node_modules/
+.expo/
+dist/
+web-build/
+*.log
+.DS_Store
